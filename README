@@ -1,0 +1,12 @@
+Lira
+
+Name: lira
+Ticker: SYP
+Algorithm:
+PoW Blocks: 100,000
+Maximum Supply: 200,000,000
+PoS Start Block: 100
+PoS Maturity: 1 Hour(s) until coins are valid for stake
+TX maturity (Mined): 10 Confirmations / (Sent/Received): 5 Confirmations
+rpcport: 19897 // testnet rpcport: 19887
+port: 19899 //testnet port: 19889

@@ -1,0 +1,2 @@
+debian/bin/lirad usr/bin
+src/lirad usr/lib/lira

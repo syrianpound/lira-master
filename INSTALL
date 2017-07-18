@@ -1,0 +1,9 @@
+Building lira
+
+See doc/readme-qt.rst for instructions on building lira QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of lira.
+
+See doc/build-*.txt for instructions on building lirad,
+the intended-for-services, no-graphical-interface, reference
+implementation of lira.

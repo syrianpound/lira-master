@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=lira
+Comment=lira P2P Cryptocurrency
+Comment[fr]=lira, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=lira, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/lira-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/lira;
+Categories=Office;

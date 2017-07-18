@@ -1,0 +1,11 @@
+[Protocol]
+exec=lira-qt '%u'
+protocol=lira
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
